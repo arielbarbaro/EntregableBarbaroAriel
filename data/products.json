@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Laptop Gamer",
+    "description": "Laptop con RTX 3060",
+    "code": "LP123",
+    "price": 1500,
+    "status": true,
+    "stock": 10,
+    "category": "Electronics",
+    "thumbnails": [
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  {
+    "id": null
+  },
+  {
+    "id": 1
+  }
+]
